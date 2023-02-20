@@ -1,0 +1,4 @@
+rootProject.name = 'Sensor-project'
+
+include 'Rest-api'
+include 'Client-API'
